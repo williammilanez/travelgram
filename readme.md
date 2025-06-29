@@ -1,6 +1,6 @@
 # 🧳 Travelgram
 
-## Perfil: Isabela Torres
+## Perfil de viagens
 
 <div align="center">
   <img src="./assets/project_cover.png" alt="Capa do Projeto" width="75%" />
